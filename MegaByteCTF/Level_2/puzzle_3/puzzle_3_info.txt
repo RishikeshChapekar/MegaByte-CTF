@@ -1,0 +1,6 @@
+TAKE YOUR REVENGG
+
+Try your hand at some reverse engineering:
+Seems like the binary file checks for password. This means it must KNOW the password. See if you can get it to confess.
+(use the revengg.c file as your source)
+Submit your flag in the format mbCTF{<FLAG>}
