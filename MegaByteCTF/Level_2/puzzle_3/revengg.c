@@ -7,7 +7,7 @@
 
 int checkPass(char *pass){
 	int permissible_indices[]={0,2,4,5,8,10,12,14,15,18,19,22,24,26,28,30,31,32,33,36};
-	char soup[STRSIZE]="bry4t3t7_ib8yh_by2yt443k_nqn1m00d65b9";
+	char soup[STRSIZE]="bry4t3t7_ib8yh_by2yt443k_nqn1m00d65b9boi";
 	if(strlen(pass)!=FLAGSIZE){
 		return 0;
 	}
