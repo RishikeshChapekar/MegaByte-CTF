@@ -42,4 +42,4 @@ In this Git repository, you will find puzzles categorised based on their level o
 1. It is reccommended to use a linux system. However you are free to use any OS of your choice as long as you are comfortable with it
 2. It helps if you have a few basic coding skills.
 3. Some challenges can be better solved by creating an algorithm, you are free to use any programming language you wish
-4. Do not spam the developer,they are very professional about this and you could get in some serious trouble.
+4. Do not spam the developer, they are very professional about this and you could get in some serious trouble.
