@@ -1,5 +1,5 @@
 # MegaByte-CTF
-This is the Capture The Flag competition created by the MegaByteCrew, a group of students. In order to play you must join our discord server (invite link will be provided shortly).
+This is the Capture The Flag competition created by the MegaByteCrew, a group of students. In order to play you must join our discord server (invite link: https://discord.gg/NyN79NY).
 
 ## How To Play 
 In this Git repository, you will find puzzles categorised based on their level of difficulty. Use any method you see fit to solve the puzzle and get the flag which is a text of the format `mbCTF{...}` . Once you have this flag, you can submit it to the MegaByte CTF bot on our discord server. The bot will award you points for each puzzle that you correctly solve.The challenges require you to use your skills of exploitation, encryption etc. to get to the flag. 
